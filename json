@@ -1,0 +1,1 @@
+[ { "item": "banana", "organic": "t", "biodegradable": "t", "years": 0.05 }, { "item": "aluminum can", "organic": "f", "biodegradable": "f", "years": 200 }, { "item": "newspaper", "organic": "f", "biodegradable": "f", "years": 0.05 }, { "item": "glass bottle", "organic": "f", "biodegradable": "f", "years": 1000000 } ]
