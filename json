@@ -1,1 +1,92 @@
-[ { "item": "banana", "organic": "t", "biodegradable": "t", "years": 0.05 }, { "item": "aluminum can", "organic": "f", "biodegradable": "f", "years": 200 }, { "item": "newspaper", "organic": "f", "biodegradable": "f", "years": 0.05 }, { "item": "glass bottle", "organic": "f", "biodegradable": "f", "years": 1000000 } ]
+[
+    {
+        "organic": "banana",
+        "biodegradable": "t",
+        "years": "t",
+        "undefined": 0.05
+    },
+    {
+        "organic": "aluminum can",
+        "biodegradable": "f",
+        "years": "f",
+        "undefined": 200
+    },
+    {
+        "organic": "newspaper",
+        "biodegradable": "f",
+        "years": "f",
+        "undefined": 0.05
+    },
+    {
+        "organic": "glass bottle",
+        "biodegradable": "f",
+        "years": "f",
+        "undefined": 1000000
+    },
+    {
+        "organic": "apple",
+        "biodegradable": "t",
+        "years": "t",
+        "undefined": 0.005
+    },
+    {
+        "organic": "papertowel",
+        "biodegradable": "f",
+        "years": "t",
+        "undefined": 0.05
+    },
+    {
+        "organic": "woolsock",
+        "biodegradable": "t",
+        "years": "t",
+        "undefined": 3
+    },
+    {
+        "organic": "cigarette butt",
+        "biodegradable": "f",
+        "years": "t",
+        "undefined": 3
+    },
+    {
+        "organic": "nylon",
+        "biodegradable": "f",
+        "years": "t",
+        "undefined": 35
+    },
+    {
+        "organic": "plastic bag",
+        "biodegradable": "f",
+        "years": "t",
+        "undefined": 15
+    },
+    {
+        "organic": "styrofoam ",
+        "biodegradable": "f",
+        "years": "f",
+        "undefined": "∞"
+    },
+    {
+        "organic": "foil",
+        "biodegradable": "f",
+        "years": "f",
+        "undefined": "∞"
+    },
+    {
+        "organic": "batteries",
+        "biodegradable": "f",
+        "years": "f",
+        "undefined": 100
+    },
+    {
+        "organic": "cardboard",
+        "biodegradable": "f",
+        "years": "t",
+        "undefined": 0.16
+    },
+    {
+        "organic": "fishing line",
+        "biodegradable": "f",
+        "years": "t",
+        "undefined": 600
+    }
+]
