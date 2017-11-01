@@ -4,32 +4,28 @@
         "organic": "t",
         "biodegradable": "t",
         "years": 0.083,
-        "clickcount": 1,
-        
+        "clickcount": 1
     },
     {
         "item": "aluminumcan",
         "organic": "f",
         "biodegradable": "f",
         "years": 200,
-        "clickcount": 10,
-      
+        "clickcount": 10
     },
     {
         "item": "newspaper",
         "organic": "f",
         "biodegradable": "f",
         "years": 0.05,
-        "clickcount": 1,
-       
+        "clickcount": 1
     },
     {
         "item": "glass bottle",
         "organic": "f",
         "biodegradable": "f",
         "years": 1000000,
-        "clickcount": 20,
-      
+        "clickcount": 20
     },
     {
         "item": "apple",
@@ -512,6 +508,95 @@
         "item": "wax paper",
         "organic": "f",
         "biodegradable": "f",
-        "years": 200
+        "years": 200,
+        "clickcount": 10
+    },
+    {
+        "item": "candle",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 50,
+        "clickcount": 6
+    },
+    {
+        "item": "chapstick",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 500,
+        "clickcount": 15
+    },
+    {
+        "item": "bread",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 0.5,
+        "clickcount": 1
+    },
+    {
+        "item": "potatoes ",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 0.5,
+        "clickcount": 1
+    },
+    {
+        "item": "tomatoes",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 0.5,
+        "clickcount": 1
+    },
+    {
+        "item": "corn",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 0.5,
+        "clickcount": 1
+    },
+    {
+        "item": "silverware",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 100,
+        "clickcount": 1
+    },
+    {
+        "item": "plates"
+    },
+    {
+        "item": "pots"
+    },
+    {
+        "item": "pans"
+    },
+    {
+        "item": "duster can",
+        "years": 200,
+        "clickcount": 10
+    },
+    {
+        "item": "swiffer",
+        "years": 800
+    },
+    {
+        "item": "tile",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 600,
+        "clickcount": 16
+    },
+    {
+        "item": "ceramics",
+        "years": 9000
+    },
+    {
+        "item": "coke bottle",
+        "years": 200,
+        "clickcount": 10
+    },
+    {
+        "item": "canned beans",
+        "years": 200,
+        "clickcount": 10
     }
 ]
