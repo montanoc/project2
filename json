@@ -4,28 +4,32 @@
         "organic": "t",
         "biodegradable": "t",
         "years": 0.083,
-        "clickcount": 1
+        "clickcount": 1,
+        "thumbnail": "http://www.pngall.com/wp-content/uploads/2016/04/Banana-PNG-Image.png"
     },
     {
         "item": "aluminumcan",
         "organic": "f",
         "biodegradable": "f",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "thumbnail": "http://www.coca-colaproductfacts.com/content/dam/productfacts/us/productDetails/ProductImages/Coke_12oz.png"
     },
     {
         "item": "newspaper",
         "organic": "f",
         "biodegradable": "f",
         "years": 0.05,
-        "clickcount": 1
+        "clickcount": 1,
+        "thumbnail": "https://vignette.wikia.nocookie.net/wikiality/images/4/4f/Newspaper.png/revision/latest?cb=20061015153148"
     },
     {
-        "item": "glassbottle",
+        "item": "glass bottle",
         "organic": "f",
         "biodegradable": "f",
         "years": 1000000,
-        "clickcount": 20
+        "clickcount": 20,
+        "thumbnail": "http://www.pngpix.com/wp-content/uploads/2016/10/Glass-Bottle-PNG-Transparent-Image.png"
     },
     {
         "item": "apple",
@@ -35,21 +39,21 @@
         "clickcount": 1
     },
     {
-        "item": "papertowel",
+        "item": "paper towel",
         "organic": "f",
         "biodegradable": "t",
         "years": 0.05,
         "clickcount": 1
     },
     {
-        "item": "woolsock",
+        "item": "wool sock",
         "organic": "t",
         "biodegradable": "t",
         "years": 3,
         "clickcount": 2
     },
     {
-        "item": "cigarettebutt",
+        "item": "cigarette butt",
         "organic": "f",
         "biodegradable": "t",
         "years": 3,
@@ -60,10 +64,10 @@
         "organic": "f",
         "biodegradable": "t",
         "years": 35,
-        "clickcount": 6
+        "clickcount": 4
     },
     {
-        "item": "plasticbag",
+        "item": "plastic bag",
         "organic": "f",
         "biodegradable": "t",
         "years": 15,
@@ -88,7 +92,7 @@
         "organic": "f",
         "biodegradable": "f",
         "years": 100,
-        "clickcount": 5
+        "clickcount": 6
     },
     {
         "item": "cardboard",
@@ -157,7 +161,7 @@
         "item": "fast food wrapper",
         "organic": "f",
         "years": 80,
-        "clickcount": 7
+        "clickcount": 9
     },
     {
         "item": "plasticbottle",
@@ -278,7 +282,9 @@
         "clickcount": 16
     },
     {
-        "item": "film"
+        "item": "film",
+        "years": 450,
+        "clickcount": 14
     },
     {
         "item": "broken glass",
@@ -313,7 +319,7 @@
         "organic": "f",
         "biodegradable": "t",
         "years": 80,
-        "clickcount": 10
+        "clickcount": 9
     },
     {
         "item": "pizza box",
@@ -326,41 +332,56 @@
         "item": "plastic fork",
         "organic": "f",
         "biodegradable": "t",
-        "clickcount": 20
+        "years": 450,
+        "clickcount": 14
     },
     {
         "item": "plastic lid",
         "organic": "f",
-        "biodegradable": "t"
+        "biodegradable": "t",
+        "years": 450,
+        "clickcount": 14
     },
     {
         "item": "bubble wrap",
         "organic": "f",
-        "biodegradable": "f"
+        "biodegradable": "f",
+        "years": 400,
+        "clickcount": 14
     },
     {
         "item": "lightbulbs",
         "organic": "f",
-        "biodegradable": "f"
+        "biodegradable": "f",
+        "years": 1000000,
+        "clickcount": 20
     },
     {
         "item": "wires",
         "organic": "f",
-        "biodegradable": "f"
+        "biodegradable": "f",
+        "years": 100,
+        "clickcount": 6
     },
     {
         "item": "tape",
         "organic": "f",
-        "biodegradable": "t"
+        "biodegradable": "t",
+        "years": 40,
+        "clickcount": 5
     },
     {
         "item": "sugar packets",
-        "biodegradable": "t"
+        "biodegradable": "t",
+        "years": 10,
+        "clickcount": 3
     },
     {
         "item": "cigarette package",
         "organic": "f",
-        "biodegradable": "t"
+        "biodegradable": "t",
+        "years": 400,
+        "clickcount": 14
     },
     {
         "item": "cellphones",
@@ -393,18 +414,26 @@
     {
         "item": "couches",
         "organic": "f",
-        "biodegradable": "t"
+        "biodegradable": "t",
+        "years": 800,
+        "clickcount": 17
     },
     {
         "item": "pillows",
-        "organic": "f"
+        "organic": "f",
+        "years": 200,
+        "clickcount": 10
     },
     {
         "item": "chairs",
-        "organic": "f"
+        "organic": "f",
+        "years": 400,
+        "clickcount": 14
     },
     {
-        "item": "blankets"
+        "item": "blankets",
+        "years": 200,
+        "clickcount": 10
     },
     {
         "item": "milk jug ",
@@ -415,7 +444,8 @@
         "item": "shoe sole",
         "organic": "f",
         "biodegradable": "t",
-        "years": 80
+        "years": 80,
+        "clickcount": 9
     },
     {
         "item": "paper cup ",
@@ -430,5 +460,58 @@
         "biodegradable": "f",
         "years": "∞",
         "clickcount": 20
+    },
+    {
+        "item": "paper plate",
+        "organic": "f",
+        "biodegradable": "t",
+        "years": 5,
+        "clickcount": 2
+    },
+    {
+        "item": "paper cup ",
+        "years": 5,
+        "clickcount": 2
+    },
+    {
+        "item": "styrofoam plate",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": "∞",
+        "clickcount": 20
+    },
+    {
+        "item": "steel",
+        "organic": "t",
+        "biodegradable": "f",
+        "years": 50,
+        "clickcount": 6
+    },
+    {
+        "item": "eraser ",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 50,
+        "clickcount": 6
+    },
+    {
+        "item": "graphite",
+        "organic": "t",
+        "biodegradable": "f",
+        "years": 150,
+        "clickcount": 8
+    },
+    {
+        "item": "saran wrap",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 400,
+        "clickcount": 14
+    },
+    {
+        "item": "wax paper",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 200
     }
 ]
