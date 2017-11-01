@@ -5,7 +5,7 @@
         "biodegradable": "t",
         "years": 0.083,
         "clickcount": 1,
-        "thumbnail": "http://www.pngall.com/wp-content/uploads/2016/04/Banana-PNG-Image.png"
+        
     },
     {
         "item": "aluminumcan",
@@ -13,7 +13,7 @@
         "biodegradable": "f",
         "years": 200,
         "clickcount": 10,
-        "thumbnail": "http://www.coca-colaproductfacts.com/content/dam/productfacts/us/productDetails/ProductImages/Coke_12oz.png"
+      
     },
     {
         "item": "newspaper",
@@ -21,7 +21,7 @@
         "biodegradable": "f",
         "years": 0.05,
         "clickcount": 1,
-        "thumbnail": "https://vignette.wikia.nocookie.net/wikiality/images/4/4f/Newspaper.png/revision/latest?cb=20061015153148"
+       
     },
     {
         "item": "glass bottle",
@@ -29,7 +29,7 @@
         "biodegradable": "f",
         "years": 1000000,
         "clickcount": 20,
-        "thumbnail": "http://www.pngpix.com/wp-content/uploads/2016/10/Glass-Bottle-PNG-Transparent-Image.png"
+      
     },
     {
         "item": "apple",
