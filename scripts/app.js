@@ -3,10 +3,9 @@ $(document).ready(function() {
   var getData = function() {
     $.ajax({
       type: 'GET',
-      url: 'https://raw.githubusercontent.com/montanoc/project2/master/json',
+      url: 'https://raw.githubusercontent.com/montanoc/project2/master/scripts/data.json',
       dataType: 'json',
       success: function(data) {
-        //
         $.each(data, function(i, trash) {
           $('#message').append('<div data-current-click-count="0" data-tolerance="' + trash.clickcount + '" class="item ' + trash.item + '">' + trash.item + '</div>');
         });
