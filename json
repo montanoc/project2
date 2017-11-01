@@ -4,599 +4,819 @@
         "organic": "t",
         "biodegradable": "t",
         "years": 0.083,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "bananapeel"
     },
     {
         "item": "aluminumcan",
         "organic": "f",
         "biodegradable": "f",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "aluminumcan"
     },
     {
         "item": "newspaper",
         "organic": "f",
         "biodegradable": "f",
         "years": 0.05,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "newspaper"
     },
     {
         "item": "glass bottle",
         "organic": "f",
         "biodegradable": "f",
         "years": 1000000,
-        "clickcount": 20
+        "clickcount": 20,
+        "imagesrc": "glass bottle"
     },
     {
         "item": "apple",
         "organic": "t",
         "biodegradable": "t",
         "years": 0.05,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "apple"
     },
     {
         "item": "paper towel",
         "organic": "f",
         "biodegradable": "t",
         "years": 0.05,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "paper towel"
     },
     {
         "item": "wool sock",
         "organic": "t",
         "biodegradable": "t",
         "years": 3,
-        "clickcount": 2
+        "clickcount": 2,
+        "imagesrc": "wool sock"
     },
     {
         "item": "cigarette butt",
         "organic": "f",
         "biodegradable": "t",
         "years": 3,
-        "clickcount": 2
+        "clickcount": 2,
+        "imagesrc": "cigarette butt"
     },
     {
         "item": "nylon",
         "organic": "f",
         "biodegradable": "t",
         "years": 35,
-        "clickcount": 4
+        "clickcount": 4,
+        "imagesrc": "nylon"
     },
     {
         "item": "plastic bag",
         "organic": "f",
         "biodegradable": "t",
         "years": 15,
-        "clickcount": 4
+        "clickcount": 4,
+        "imagesrc": "plastic bag"
     },
     {
         "item": "styrofoam ",
         "organic": "f",
         "biodegradable": "f",
         "years": "∞",
-        "clickcount": 20
+        "clickcount": 20,
+        "imagesrc": "styrofoam "
     },
     {
         "item": "foil",
         "organic": "f",
         "biodegradable": "f",
         "years": "∞",
-        "clickcount": 20
+        "clickcount": 20,
+        "imagesrc": "foil"
     },
     {
         "item": "batteries",
         "organic": "f",
         "biodegradable": "f",
         "years": 100,
-        "clickcount": 6
+        "clickcount": 6,
+        "imagesrc": "batteries"
     },
     {
         "item": "cardboard",
         "organic": "f",
         "biodegradable": "t",
         "years": 0.16,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "cardboard"
     },
     {
         "item": "fishingline",
         "organic": "f",
         "biodegradable": "t",
         "years": 600,
-        "clickcount": 15
+        "clickcount": 15,
+        "imagesrc": "fishingline"
     },
     {
         "item": "gum",
         "organic": "f",
         "biodegradable": "f",
         "years": "∞",
-        "clickcount": 20
+        "clickcount": 20,
+        "imagesrc": "gum"
     },
     {
         "item": "diapers",
         "organic": "f",
         "biodegradable": "f",
         "years": 450,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "diapers"
     },
     {
         "item": "tshirt",
         "organic": "t",
         "biodegradable": "t",
         "years": 0.4,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "tshirt"
     },
     {
         "item": "leather",
         "organic": "t",
         "biodegradable": "t",
         "years": 50,
-        "clickcount": 6
+        "clickcount": 6,
+        "imagesrc": "leather"
     },
     {
         "item": "plywood",
         "organic": "t",
         "biodegradable": "t",
         "years": 2,
-        "clickcount": 2
+        "clickcount": 2,
+        "imagesrc": "plywood"
     },
     {
         "item": "milkcarton",
         "organic": "f",
         "biodegradable": "f",
         "years": 0.25,
-        "clickcount": 2
+        "clickcount": 2,
+        "imagesrc": "milkcarton"
     },
     {
         "item": "paper cup ",
         "organic": "f",
         "biodegradable": "t",
         "years": 20,
-        "clickcount": 5
+        "clickcount": 5,
+        "imagesrc": "paper cup "
     },
     {
         "item": "fast food wrapper",
         "organic": "f",
         "years": 80,
-        "clickcount": 9
+        "clickcount": 9,
+        "imagesrc": "fast food wrapper"
     },
     {
         "item": "plasticbottle",
         "organic": "f",
         "biodegradable": "f",
         "years": 450,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "plasticbottle"
     },
     {
         "item": "rubberbootsole",
         "organic": "f",
         "biodegradable": "f",
         "years": 70,
-        "clickcount": 7
+        "clickcount": 7,
+        "imagesrc": "rubberbootsole"
     },
     {
         "item": "plastic straw",
         "organic": "f",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "plastic straw"
     },
     {
         "item": "cereal box",
         "organic": "f",
         "biodegradable": "t",
         "years": 0.11,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "cereal box"
     },
     {
         "item": "rope",
         "organic": "t",
         "biodegradable": "t",
         "years": 1,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "rope"
     },
     {
         "item": "car tire",
         "organic": "f",
         "biodegradable": "t",
         "years": 50,
-        "clickcount": 6
+        "clickcount": 6,
+        "imagesrc": "car tire"
     },
     {
         "item": "raffeltickets",
         "organic": "f",
         "biodegradable": "t",
         "years": 0.05,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "raffeltickets"
     },
     {
         "item": "canvas",
         "organic": "t",
         "biodegradable": "t",
         "years": 1,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "canvas"
     },
     {
         "item": "candy wrapper",
         "organic": "f",
         "biodegradable": "t",
         "years": 80,
-        "clickcount": 5
+        "clickcount": 5,
+        "imagesrc": "candy wrapper"
     },
     {
         "item": "pads",
         "organic": "f",
         "biodegradable": "f",
         "years": 650,
-        "clickcount": 15
+        "clickcount": 15,
+        "imagesrc": "pads"
     },
     {
         "item": "tampons",
         "organic": "f",
         "biodegradable": "f",
         "years": 0.5,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "tampons"
     },
     {
         "item": "lumber",
         "organic": "t",
         "biodegradable": "t",
         "years": 13,
-        "clickcount": 4
+        "clickcount": 4,
+        "imagesrc": "lumber"
     },
     {
         "item": "plastic cup",
         "organic": "f",
         "biodegradable": "t",
         "years": 450,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "plastic cup"
     },
     {
         "item": "filmcontainer",
         "organic": "f",
         "biodegradable": "f",
         "years": 25,
-        "clickcount": 4
+        "clickcount": 4,
+        "imagesrc": "filmcontainer"
     },
     {
         "item": "foam plastic cup",
         "organic": "f",
         "biodegradable": "t",
         "years": 50,
-        "clickcount": 6
+        "clickcount": 6,
+        "imagesrc": "foam plastic cup"
     },
     {
         "item": "paper sheet",
         "organic": "f",
         "biodegradable": "t",
         "years": 0.115,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "paper sheet"
     },
     {
         "item": "pvc(records)",
         "organic": "f",
         "biodegradable": "f",
         "years": 700,
-        "clickcount": 16
+        "clickcount": 16,
+        "imagesrc": "pvc(records)"
     },
     {
         "item": "film",
         "years": 450,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "film"
     },
     {
         "item": "broken glass",
         "organic": "f",
         "biodegradable": "t",
         "years": 1000000,
-        "clickcount": 20
+        "clickcount": 20,
+        "imagesrc": "broken glass"
     },
     {
         "item": "paper bag",
         "organic": "f",
         "biodegradable": "t",
         "years": 0.083,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "paper bag"
     },
     {
         "item": "disposable napkins",
         "organic": "f",
         "biodegradable": "f",
         "years": 40,
-        "clickcount": 5
+        "clickcount": 5,
+        "imagesrc": "disposable napkins"
     },
     {
         "item": "tire",
         "organic": "f",
         "biodegradable": "f",
         "years": 80,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "tire"
     },
     {
         "item": "sandwich bags",
         "organic": "f",
         "biodegradable": "t",
         "years": 80,
-        "clickcount": 9
+        "clickcount": 9,
+        "imagesrc": "sandwich bags"
     },
     {
         "item": "pizza box",
         "organic": "f",
         "biodegradable": "t",
         "years": 5,
-        "clickcount": 5
+        "clickcount": 5,
+        "imagesrc": "pizza box"
     },
     {
         "item": "plastic fork",
         "organic": "f",
         "biodegradable": "t",
         "years": 450,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "plastic fork"
     },
     {
         "item": "plastic lid",
         "organic": "f",
         "biodegradable": "t",
         "years": 450,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "plastic lid"
     },
     {
         "item": "bubble wrap",
         "organic": "f",
         "biodegradable": "f",
         "years": 400,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "bubble wrap"
     },
     {
         "item": "lightbulbs",
         "organic": "f",
         "biodegradable": "f",
         "years": 1000000,
-        "clickcount": 20
+        "clickcount": 20,
+        "imagesrc": "lightbulbs"
     },
     {
         "item": "wires",
         "organic": "f",
         "biodegradable": "f",
         "years": 100,
-        "clickcount": 6
+        "clickcount": 6,
+        "imagesrc": "wires"
     },
     {
         "item": "tape",
         "organic": "f",
         "biodegradable": "t",
         "years": 40,
-        "clickcount": 5
+        "clickcount": 5,
+        "imagesrc": "tape"
     },
     {
         "item": "sugar packets",
         "biodegradable": "t",
         "years": 10,
-        "clickcount": 3
+        "clickcount": 3,
+        "imagesrc": "sugar packets"
     },
     {
         "item": "cigarette package",
         "organic": "f",
         "biodegradable": "t",
         "years": 400,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "cigarette package"
     },
     {
         "item": "cellphones",
         "organic": "f",
         "biodegradable": "t",
         "years": 1000,
-        "clickcount": 20
+        "clickcount": 18,
+        "imagesrc": "cellphones"
     },
     {
         "item": "televisions",
         "organic": "f",
         "biodegradable": "t",
         "years": 1000,
-        "clickcount": 20
+        "clickcount": 18,
+        "imagesrc": "televisions"
     },
     {
         "item": "computer moniters",
         "organic": "f",
         "biodegradable": "t",
         "years": 1000,
-        "clickcount": 20
+        "clickcount": 18,
+        "imagesrc": "computer moniters"
     },
     {
         "item": "computer keyboards",
         "organic": "f",
         "biodegradable": "t",
         "years": 1000,
-        "clickcount": 20
+        "clickcount": 18,
+        "imagesrc": "computer keyboards"
     },
     {
         "item": "couches",
         "organic": "f",
         "biodegradable": "t",
         "years": 800,
-        "clickcount": 17
+        "clickcount": 17,
+        "imagesrc": "couches"
     },
     {
         "item": "pillows",
         "organic": "f",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "pillows"
     },
     {
         "item": "chairs",
         "organic": "f",
         "years": 400,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "chairs"
     },
     {
         "item": "blankets",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "blankets"
     },
     {
         "item": "milk jug ",
         "years": 500,
-        "clickcount": 15
+        "clickcount": 15,
+        "imagesrc": "milk jug "
     },
     {
         "item": "shoe sole",
         "organic": "f",
         "biodegradable": "t",
         "years": 80,
-        "clickcount": 9
+        "clickcount": 9,
+        "imagesrc": "shoe sole"
     },
     {
         "item": "paper cup ",
         "organic": "f",
         "biodegradable": "t",
         "years": 1,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "paper cup "
     },
     {
         "item": "styrofoam cup",
         "organic": "f",
         "biodegradable": "f",
         "years": "∞",
-        "clickcount": 20
+        "clickcount": 20,
+        "imagesrc": "styrofoam cup"
     },
     {
         "item": "paper plate",
         "organic": "f",
         "biodegradable": "t",
         "years": 5,
-        "clickcount": 2
+        "clickcount": 2,
+        "imagesrc": "paper plate"
     },
     {
         "item": "paper cup ",
         "years": 5,
-        "clickcount": 2
+        "clickcount": 2,
+        "imagesrc": "paper cup "
     },
     {
         "item": "styrofoam plate",
         "organic": "f",
         "biodegradable": "f",
         "years": "∞",
-        "clickcount": 20
+        "clickcount": 20,
+        "imagesrc": "styrofoam plate"
     },
     {
         "item": "steel",
         "organic": "t",
         "biodegradable": "f",
         "years": 50,
-        "clickcount": 6
+        "clickcount": 6,
+        "imagesrc": "steel"
     },
     {
         "item": "eraser ",
         "organic": "f",
         "biodegradable": "f",
         "years": 50,
-        "clickcount": 6
+        "clickcount": 6,
+        "imagesrc": "eraser "
     },
     {
         "item": "graphite",
         "organic": "t",
         "biodegradable": "f",
         "years": 150,
-        "clickcount": 8
+        "clickcount": 8,
+        "imagesrc": "graphite"
     },
     {
         "item": "saran wrap",
         "organic": "f",
         "biodegradable": "f",
         "years": 400,
-        "clickcount": 14
+        "clickcount": 14,
+        "imagesrc": "saran wrap"
     },
     {
         "item": "wax paper",
         "organic": "f",
         "biodegradable": "f",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "wax paper"
     },
     {
         "item": "candle",
         "organic": "t",
         "biodegradable": "t",
         "years": 50,
-        "clickcount": 6
+        "clickcount": 6,
+        "imagesrc": "candle"
     },
     {
         "item": "chapstick",
         "organic": "f",
         "biodegradable": "f",
         "years": 500,
-        "clickcount": 15
+        "clickcount": 15,
+        "imagesrc": "chapstick"
     },
     {
         "item": "bread",
         "organic": "t",
         "biodegradable": "t",
         "years": 0.5,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "bread"
     },
     {
         "item": "potatoes ",
         "organic": "t",
         "biodegradable": "t",
         "years": 0.5,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "potatoes "
     },
     {
         "item": "tomatoes",
         "organic": "t",
         "biodegradable": "t",
         "years": 0.5,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "tomatoes"
     },
     {
         "item": "corn",
         "organic": "t",
         "biodegradable": "t",
         "years": 0.5,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "corn"
     },
     {
         "item": "silverware",
         "organic": "f",
         "biodegradable": "f",
         "years": 100,
-        "clickcount": 1
+        "clickcount": 1,
+        "imagesrc": "silverware"
     },
     {
-        "item": "plates"
+        "item": "plates",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 9000,
+        "clickcount": 19,
+        "imagesrc": "plates"
     },
     {
-        "item": "pots"
+        "item": "pots",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 100,
+        "clickcount": 6,
+        "imagesrc": "pots"
     },
     {
-        "item": "pans"
+        "item": "pans",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 100,
+        "clickcount": 6,
+        "imagesrc": "pans"
     },
     {
         "item": "duster can",
+        "organic": "f",
+        "biodegradable": "f",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "duster can"
     },
     {
         "item": "swiffer",
-        "years": 800
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 800,
+        "clickcount": 18,
+        "imagesrc": "swiffer"
     },
     {
         "item": "tile",
         "organic": "t",
         "biodegradable": "t",
         "years": 600,
-        "clickcount": 16
+        "clickcount": 16,
+        "imagesrc": "tile"
     },
     {
         "item": "ceramics",
-        "years": 9000
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 9000,
+        "clickcount": 19,
+        "imagesrc": "ceramics"
     },
     {
-        "item": "coke bottle",
+        "item": "coke can",
+        "organic": "f",
+        "biodegradable": "f",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "coke can"
     },
     {
         "item": "canned beans",
+        "organic": "f",
+        "biodegradable": "f",
         "years": 200,
-        "clickcount": 10
+        "clickcount": 10,
+        "imagesrc": "canned beans"
+    },
+    {
+        "item": "coke bottle",
+        "organic": "t",
+        "biodegradable": "f",
+        "years": 1000000,
+        "clickcount": 20,
+        "imagesrc": "coke bottle"
+    },
+    {
+        "item": "jeans",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 30,
+        "clickcount": 4,
+        "imagesrc": "jeans"
+    },
+    {
+        "item": "oil",
+        "imagesrc": "oil"
+    },
+    {
+        "item": "finger nail",
+        "years": 50,
+        "clickcount": 6,
+        "imagesrc": "finger nail"
+    },
+    {
+        "item": "cotton balls",
+        "years": 0.4,
+        "clickcount": 1,
+        "imagesrc": "cotton balls"
+    },
+    {
+        "item": "cotton swabs",
+        "years": 0.4,
+        "clickcount": 1,
+        "imagesrc": "cotton swabs"
+    },
+    {
+        "item": "needles",
+        "imagesrc": "needles"
+    },
+    {
+        "item": "motor",
+        "imagesrc": "motor"
+    },
+    {
+        "item": "basketball hoop",
+        "imagesrc": "basketball hoop"
+    },
+    {
+        "item": "basketball ",
+        "imagesrc": "basketball "
+    },
+    {
+        "item": "football",
+        "imagesrc": "football"
+    },
+    {
+        "item": "baseball",
+        "imagesrc": "baseball"
+    },
+    {
+        "item": "baseball glove",
+        "imagesrc": "baseball glove"
+    },
+    {
+        "item": "umbrella",
+        "imagesrc": "umbrella"
+    },
+    {
+        "item": "gold",
+        "years": 50,
+        "clickcount": 6,
+        "imagesrc": "gold"
+    },
+    {
+        "item": "platinum",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 50,
+        "clickcount": 6,
+        "imagesrc": "platinum"
+    },
+    {
+        "item": "cd",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 450,
+        "imagesrc": "cd"
+    },
+    {
+        "item": "dvd",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 450,
+        "imagesrc": "dvd"
+    },
+    {
+        "item": "dvd box",
+        "organic": "f",
+        "biodegradable": "f",
+        "years": 450,
+        "imagesrc": "dvd box"
     }
 ]
