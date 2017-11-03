@@ -7,7 +7,13 @@ $(document).ready(function() {
       dataType: 'json',
       success: function(data) {
         $.each(data, function(i, trash) {
-          $('#message').append('<div data-current-click-count="0" data-tolerance="' + trash.clickcount + '" class="item ' + trash.item + '">' + trash.item + '</div>');
+
+          $('#message').append('<div data-current-click-count="0" data-tolerance="' + trash.clickcount + '" class="item ' + trash.item + '">' + trash.item + '<img src="http://www.cmontano.xyz/interaction3/project2/images/' + trash.imagesrc + '.png"/></div>');
+
+//          $('#message').append('<div data-current-click-count="0" data-tolerance="' + trash.clickcount + '" class="item ' + trash.item + '">' + trash.item + '<img src="images/' + trash.imagesrc + '.png"/></div>');
+            
+            
+
         });
       },
       complete: function() {
@@ -43,6 +49,26 @@ $(document).ready(function() {
   /*if (clickcount == 5) {
   $(this).append('decomposed');
   } */
+  
+  //splash screen 
+$.fn.center = function () {
+  this.css("position","absolute");
+  this.css("top", Math.max(0, (
+    ($(window).height() - $(this).outerHeight()) / 2) + 
+     $(window).scrollTop()) + "px"
+  );
+  this.css("left", Math.max(0, (
+    ($(window).width() - $(this).outerWidth()) / 2) + 
+     $(window).scrollLeft()) + "px"
+  );
+  return this;
+}
 
+$("#overlay").show();
+$("#overlay-content").show().center();
+
+setTimeout(function(){    
+  $("#overlay").fadeOut();
+}, 8000);
 
 });
