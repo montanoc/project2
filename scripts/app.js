@@ -38,16 +38,26 @@ $(document).ready(function() {
       // var year = $(this).data('clickcount');
       //  alert('decomposed');
       $(this).attr('data-current-click-count', currentClickCount + 1);
-      $(this).append(' decomposed');
+      $(this).append();
+        //shrinks the item when clicked
+           $("img").click(function(){
+            $("img").animate({
+            left: '-121px',
+            right: '-1px',
+            height: '-=5%',
+            width: '-=5%'});
+           });
 
       if (currentClickCount == tolerance) {
         $(this).fadeOut();
-      }
+          
+   
+        }
     })
-     //randomize divs on load 
     
-var cards = $(".item");
-for(var i = 0; i < cards.length; i++){
+     //randomize divs on load 
+    var cards = $(".item");
+    for(var i = 0; i < cards.length; i++){
     var target = Math.floor(Math.random() * cards.length -1) + 1;
     var target2 = Math.floor(Math.random() * cards.length -1) +1;
     cards.eq(target).before(cards.eq(target2));
@@ -77,9 +87,6 @@ $("#overlay-content").show().center();
 
 setTimeout(function(){    
   $("#overlay").fadeOut();
-}, 3000);
-
-  
-    
+}, 1000);
     
 });

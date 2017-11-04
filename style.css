@@ -17,6 +17,8 @@ body {
   line-height: 90%;
   overflow: hidden;
 }
+
+/*splash screen */
 #overlay{
   display: none;
 	position: fixed;
@@ -60,10 +62,10 @@ body {
 .item {
   background-color: #563F28;
   float: left;
-  margin: 10px;
+  margin: 40px;
   padding: 10px;
-  height: 400px;
-  width: 300px;
+  height: 900px;
+  width: 600px;
   /*can later change the color to the same as the background so that the boxes blend into it? */
   color: white;
   font-size: 23px;
@@ -71,16 +73,6 @@ body {
   line-height: 90%;
   overflow: hidden;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /* DON'T DELETE THIS */

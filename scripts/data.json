@@ -29,7 +29,7 @@
         "biodegradable": "f",
         "years": 1000000,
         "clickcount": 20,
-        "imagesrc": "glass bottle"
+        "imagesrc": "glassbottle"
     },
     {
         "item": "apple",
@@ -45,7 +45,7 @@
         "biodegradable": "t",
         "years": 0.05,
         "clickcount": 1,
-        "imagesrc": "paper towel"
+        "imagesrc": "papertowel"
     },
     {
         "item": "wool sock",
@@ -53,7 +53,7 @@
         "biodegradable": "t",
         "years": 3,
         "clickcount": 2,
-        "imagesrc": "wool sock"
+        "imagesrc": "woolsock"
     },
     {
         "item": "cigarette butt",
@@ -61,7 +61,7 @@
         "biodegradable": "t",
         "years": 3,
         "clickcount": 2,
-        "imagesrc": "cigarette butt"
+        "imagesrc": "cigarettebutt"
     },
     {
         "item": "nylon",
@@ -77,7 +77,7 @@
         "biodegradable": "t",
         "years": 15,
         "clickcount": 4,
-        "imagesrc": "plastic bag"
+        "imagesrc": "plasticbag"
     },
     {
         "item": "styrofoam ",
@@ -173,14 +173,14 @@
         "biodegradable": "t",
         "years": 20,
         "clickcount": 5,
-        "imagesrc": "paper cup "
+        "imagesrc": "papercup "
     },
     {
         "item": "fast food wrapper",
         "organic": "f",
         "years": 80,
         "clickcount": 9,
-        "imagesrc": "fast food wrapper"
+        "imagesrc": "fastfoodwrapper"
     },
     {
         "item": "plasticbottle",
@@ -227,7 +227,7 @@
         "biodegradable": "t",
         "years": 50,
         "clickcount": 6,
-        "imagesrc": "car tire"
+        "imagesrc": "cartire"
     },
     {
         "item": "raffeltickets",
@@ -251,7 +251,7 @@
         "biodegradable": "t",
         "years": 80,
         "clickcount": 5,
-        "imagesrc": "candy wrapper"
+        "imagesrc": "candywrapper"
     },
     {
         "item": "pads",
@@ -283,7 +283,7 @@
         "biodegradable": "t",
         "years": 450,
         "clickcount": 14,
-        "imagesrc": "plastic cup"
+        "imagesrc": "plasticcup"
     },
     {
         "item": "filmcontainer",
@@ -299,7 +299,7 @@
         "biodegradable": "t",
         "years": 50,
         "clickcount": 6,
-        "imagesrc": "foam plastic cup"
+        "imagesrc": "foamplasticcup"
     },
     {
         "item": "paper sheet",
@@ -307,7 +307,7 @@
         "biodegradable": "t",
         "years": 0.115,
         "clickcount": 1,
-        "imagesrc": "paper sheet"
+        "imagesrc": "papersheet"
     },
     {
         "item": "pvc(records)",
@@ -315,7 +315,7 @@
         "biodegradable": "f",
         "years": 700,
         "clickcount": 16,
-        "imagesrc": "pvc(records)"
+        "imagesrc": "vinylrecord"
     },
     {
         "item": "film",
@@ -329,7 +329,7 @@
         "biodegradable": "t",
         "years": 1000000,
         "clickcount": 20,
-        "imagesrc": "broken glass"
+        "imagesrc": "brokenglass"
     },
     {
         "item": "paper bag",
@@ -337,7 +337,7 @@
         "biodegradable": "t",
         "years": 0.083,
         "clickcount": 1,
-        "imagesrc": "paper bag"
+        "imagesrc": "paperbag"
     },
     {
         "item": "disposable napkins",
@@ -345,7 +345,7 @@
         "biodegradable": "f",
         "years": 40,
         "clickcount": 5,
-        "imagesrc": "disposable napkins"
+        "imagesrc": "disposablenapkins"
     },
     {
         "item": "tire",
@@ -361,7 +361,7 @@
         "biodegradable": "t",
         "years": 80,
         "clickcount": 9,
-        "imagesrc": "sandwich bags"
+        "imagesrc": "sandwichbags"
     },
     {
         "item": "pizza box",
@@ -369,7 +369,7 @@
         "biodegradable": "t",
         "years": 5,
         "clickcount": 5,
-        "imagesrc": "pizza box"
+        "imagesrc": "pizzabox"
     },
     {
         "item": "plastic fork",
@@ -377,7 +377,7 @@
         "biodegradable": "t",
         "years": 450,
         "clickcount": 14,
-        "imagesrc": "plastic fork"
+        "imagesrc": "plasticfork"
     },
     {
         "item": "plastic lid",
@@ -385,7 +385,7 @@
         "biodegradable": "t",
         "years": 450,
         "clickcount": 14,
-        "imagesrc": "plastic lid"
+        "imagesrc": "plasticlid"
     },
     {
         "item": "bubble wrap",
@@ -393,7 +393,7 @@
         "biodegradable": "f",
         "years": 400,
         "clickcount": 14,
-        "imagesrc": "bubble wrap"
+        "imagesrc": "bubblewrap"
     },
     {
         "item": "lightbulbs",
@@ -424,7 +424,7 @@
         "biodegradable": "t",
         "years": 10,
         "clickcount": 3,
-        "imagesrc": "sugar packets"
+        "imagesrc": "sugarpackets"
     },
     {
         "item": "cigarette package",
@@ -432,7 +432,7 @@
         "biodegradable": "t",
         "years": 400,
         "clickcount": 14,
-        "imagesrc": "cigarette package"
+        "imagesrc": "cigarettepackage"
     },
     {
         "item": "cellphones",
@@ -456,7 +456,7 @@
         "biodegradable": "t",
         "years": 1000,
         "clickcount": 18,
-        "imagesrc": "computer moniters"
+        "imagesrc": "computerscreen"
     },
     {
         "item": "computer keyboards",
@@ -464,7 +464,7 @@
         "biodegradable": "t",
         "years": 1000,
         "clickcount": 18,
-        "imagesrc": "computer keyboards"
+        "imagesrc": "computerkeyboard"
     },
     {
         "item": "couches",
@@ -498,7 +498,7 @@
         "item": "milk jug ",
         "years": 500,
         "clickcount": 15,
-        "imagesrc": "milk jug "
+        "imagesrc": "milkjug "
     },
     {
         "item": "shoe sole",
@@ -506,7 +506,7 @@
         "biodegradable": "t",
         "years": 80,
         "clickcount": 9,
-        "imagesrc": "shoe sole"
+        "imagesrc": "shoesole"
     },
     {
         "item": "paper cup ",
@@ -514,7 +514,7 @@
         "biodegradable": "t",
         "years": 1,
         "clickcount": 1,
-        "imagesrc": "paper cup "
+        "imagesrc": "papercup "
     },
     {
         "item": "styrofoam cup",
@@ -522,7 +522,7 @@
         "biodegradable": "f",
         "years": "∞",
         "clickcount": 20,
-        "imagesrc": "styrofoam cup"
+        "imagesrc": "styrofoamcup"
     },
     {
         "item": "paper plate",
@@ -530,13 +530,13 @@
         "biodegradable": "t",
         "years": 5,
         "clickcount": 2,
-        "imagesrc": "paper plate"
+        "imagesrc": "paperplate"
     },
     {
         "item": "paper cup ",
         "years": 5,
         "clickcount": 2,
-        "imagesrc": "paper cup "
+        "imagesrc": "papercup "
     },
     {
         "item": "styrofoam plate",
@@ -544,7 +544,7 @@
         "biodegradable": "f",
         "years": "∞",
         "clickcount": 20,
-        "imagesrc": "styrofoam plate"
+        "imagesrc": "styrofoamplate"
     },
     {
         "item": "steel",
@@ -576,7 +576,7 @@
         "biodegradable": "f",
         "years": 400,
         "clickcount": 14,
-        "imagesrc": "saran wrap"
+        "imagesrc": "saranwrap"
     },
     {
         "item": "wax paper",
@@ -584,7 +584,7 @@
         "biodegradable": "f",
         "years": 200,
         "clickcount": 10,
-        "imagesrc": "wax paper"
+        "imagesrc": "waxpaper"
     },
     {
         "item": "candle",
@@ -672,7 +672,7 @@
         "biodegradable": "f",
         "years": 200,
         "clickcount": 10,
-        "imagesrc": "duster can"
+        "imagesrc": "dustercan"
     },
     {
         "item": "swiffer",
@@ -704,7 +704,7 @@
         "biodegradable": "f",
         "years": 200,
         "clickcount": 10,
-        "imagesrc": "coke can"
+        "imagesrc": "cokecan"
     },
     {
         "item": "canned beans",
@@ -712,7 +712,7 @@
         "biodegradable": "f",
         "years": 200,
         "clickcount": 10,
-        "imagesrc": "canned beans"
+        "imagesrc": "cannedbeans"
     },
     {
         "item": "coke bottle",
@@ -720,7 +720,7 @@
         "biodegradable": "f",
         "years": 1000000,
         "clickcount": 20,
-        "imagesrc": "coke bottle"
+        "imagesrc": "cokebottle"
     },
     {
         "item": "jeans",
@@ -731,72 +731,44 @@
         "imagesrc": "jeans"
     },
     {
-        "item": "oil",
-        "imagesrc": "oil"
+        "item": "tshirt",
+        "organic": "f",
+        "biodegradable": "t",
+        "years": 1,
+        "clickcount": 1,
+        "imagesrc": "tshirt"
     },
     {
-        "item": "finger nail",
-        "years": 50,
-        "clickcount": 6,
-        "imagesrc": "finger nail"
+        "item": "wood furniture",
+        "organic": "f",
+        "biodegradable": "t",
+        "years": 14,
+        "clickcount": 4,
+        "imagesrc": "woodfurniture"
     },
     {
         "item": "cotton balls",
         "years": 0.4,
         "clickcount": 1,
-        "imagesrc": "cotton balls"
+        "imagesrc": "cottonballs"
     },
     {
         "item": "cotton swabs",
         "years": 0.4,
         "clickcount": 1,
-        "imagesrc": "cotton swabs"
+        "imagesrc": "cottonswabs"
     },
     {
         "item": "needles",
+        "years": 600,
+        "clickcount": 16,
         "imagesrc": "needles"
     },
     {
         "item": "motor",
+        "years": 700,
+        "clickcount": 16,
         "imagesrc": "motor"
-    },
-    {
-        "item": "basketball hoop",
-        "imagesrc": "basketball hoop"
-    },
-    {
-        "item": "basketball ",
-        "imagesrc": "basketball "
-    },
-    {
-        "item": "football",
-        "imagesrc": "football"
-    },
-    {
-        "item": "baseball",
-        "imagesrc": "baseball"
-    },
-    {
-        "item": "baseball glove",
-        "imagesrc": "baseball glove"
-    },
-    {
-        "item": "umbrella",
-        "imagesrc": "umbrella"
-    },
-    {
-        "item": "gold",
-        "years": 50,
-        "clickcount": 6,
-        "imagesrc": "gold"
-    },
-    {
-        "item": "platinum",
-        "organic": "t",
-        "biodegradable": "t",
-        "years": 50,
-        "clickcount": 6,
-        "imagesrc": "platinum"
     },
     {
         "item": "cd",
