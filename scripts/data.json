@@ -203,7 +203,7 @@
         "organic": "f",
         "years": 200,
         "clickcount": 10,
-        "imagesrc": "plastic straw"
+        "imagesrc": "plasticstraw"
     },
     {
         "item": "cereal box",
@@ -211,7 +211,7 @@
         "biodegradable": "t",
         "years": 0.11,
         "clickcount": 1,
-        "imagesrc": "cereal box"
+        "imagesrc": "cerealbox"
     },
     {
         "item": "rope",
@@ -235,15 +235,7 @@
         "biodegradable": "t",
         "years": 0.05,
         "clickcount": 1,
-        "imagesrc": "raffeltickets"
-    },
-    {
-        "item": "canvas",
-        "organic": "t",
-        "biodegradable": "t",
-        "years": 1,
-        "clickcount": 1,
-        "imagesrc": "canvas"
+        "imagesrc": "raffletickets"
     },
     {
         "item": "candy wrapper",
@@ -547,14 +539,6 @@
         "imagesrc": "styrofoamplate"
     },
     {
-        "item": "steel",
-        "organic": "t",
-        "biodegradable": "f",
-        "years": 50,
-        "clickcount": 6,
-        "imagesrc": "steel"
-    },
-    {
         "item": "eraser ",
         "organic": "f",
         "biodegradable": "f",
@@ -748,47 +732,90 @@
     },
     {
         "item": "cotton balls",
+        "organic": "t",
+        "biodegradable": "t",
         "years": 0.4,
         "clickcount": 1,
         "imagesrc": "cottonballs"
     },
     {
         "item": "cotton swabs",
+        "organic": "f",
+        "biodegradable": "t",
         "years": 0.4,
         "clickcount": 1,
         "imagesrc": "cottonswabs"
     },
     {
         "item": "needles",
+        "organic": "f",
+        "biodegradable": "t",
         "years": 600,
         "clickcount": 16,
         "imagesrc": "needles"
     },
     {
         "item": "motor",
+        "organic": "f",
+        "biodegradable": "t",
         "years": 700,
         "clickcount": 16,
         "imagesrc": "motor"
     },
     {
-        "item": "cd",
+        "item": "packaging peanuts",
         "organic": "f",
         "biodegradable": "f",
+        "years": 900,
+        "clickcount": 20,
+        "imagesrc": "packagingpeanut"
+    },
+    {
+        "item": "waterbottle",
+        "organic": "f",
+        "biodegradable": "t",
+        "years": 10000,
+        "clickcount": 20,
+        "imagesrc": "waterbottle"
+    },
+    {
+        "item": "deoderant",
+        "organic": "f",
+        "biodegradable": "t",
+        "years": 10000,
+        "clickcount": 19,
+        "imagesrc": "deoderant"
+    },
+    {
+        "item": "shampoo bottle",
+        "organic": "f",
+        "biodegradable": "t",
+        "years": 10000,
+        "clickcount": 20,
+        "imagesrc": "shampoobottle"
+    },
+    {
+        "item": "cd",
+        "organic": "f",
+        "biodegradable": "t",
         "years": 450,
+        "clickcount": 15,
         "imagesrc": "cd"
     },
     {
         "item": "dvd",
         "organic": "f",
-        "biodegradable": "f",
+        "biodegradable": "t",
         "years": 450,
+        "clickcount": 15,
         "imagesrc": "dvd"
     },
     {
-        "item": "dvd box",
+        "item": "dvd player",
         "organic": "f",
-        "biodegradable": "f",
+        "biodegradable": "t",
         "years": 450,
-        "imagesrc": "dvd box"
+        "clickcount": 17,
+        "imagesrc": "dvdplayer"
     }
 ]

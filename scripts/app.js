@@ -8,7 +8,7 @@ $(document).ready(function() {
       success: function(data) {
         $.each(data, function(i, trash) {
 
-          $('#message').append('<div data-current-click-count="0" data-tolerance="' + trash.clickcount + '" class="item ' + trash.item + '">' + trash.item + '<img src="http://www.cmontano.xyz/interaction3/project2/images/' + trash.imagesrc + '.png"/></div>');
+          $('#message').append('<div data-current-click-count="0" data-tolerance="' + trash.clickcount + '" class="item ' + trash.item + '">' + trash.item + '<img src="http://www.cmontano.xyz/interaction3/project2/images/' + trash.imagesrc + '.jpg"/></div>');
 
 //          $('#message').append('<div data-current-click-count="0" data-tolerance="' + trash.clickcount + '" class="item ' + trash.item + '">' + trash.item + '<img src="images/' + trash.imagesrc + '.png"/></div>');
             
@@ -42,8 +42,8 @@ $(document).ready(function() {
         //shrinks the item when clicked
            $("img").click(function(){
             $("img").animate({
-            left: '-121px',
-            right: '-1px',
+            left: '0px',
+            right: '0px',
             height: '-=5%',
             width: '-=5%'});
            });
@@ -87,6 +87,6 @@ $("#overlay-content").show().center();
 
 setTimeout(function(){    
   $("#overlay").fadeOut();
-}, 1000);
+}, 6000);
     
 });
