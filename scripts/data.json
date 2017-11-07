@@ -88,14 +88,6 @@
         "imagesrc": "styrofoam "
     },
     {
-        "item": "foil",
-        "organic": "f",
-        "biodegradable": "f",
-        "years": "∞",
-        "clickcount": 20,
-        "imagesrc": "foil"
-    },
-    {
         "item": "batteries",
         "organic": "f",
         "biodegradable": "f",
@@ -236,6 +228,14 @@
         "years": 0.05,
         "clickcount": 1,
         "imagesrc": "raffletickets"
+    },
+    {
+        "item": "canvas",
+        "organic": "t",
+        "biodegradable": "t",
+        "years": 1,
+        "clickcount": 1,
+        "imagesrc": "canvas"
     },
     {
         "item": "candy wrapper",
@@ -537,6 +537,14 @@
         "years": "∞",
         "clickcount": 20,
         "imagesrc": "styrofoamplate"
+    },
+    {
+        "item": "steel",
+        "organic": "t",
+        "biodegradable": "f",
+        "years": 50,
+        "clickcount": 6,
+        "imagesrc": "steel"
     },
     {
         "item": "eraser ",

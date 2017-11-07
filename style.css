@@ -12,20 +12,24 @@ body {
 .item {
 /*  background-color: #563F28; */
   float: left;
+    margin-left: 100px;
   margin: 40px;
   padding: 10px;
   height: 900px;
-  width: 600px;
+  width: 900px;
   /*can later change the color to the same as the background so that the boxes blend into it? */
   color: white;
   font-size: 43px;
   letter-spacing: -2px;
   line-height: 90%;
   overflow: hidden;
+border: 1px brown;
 }
 img {
-    height: 100vh;
+    height: 100%;
+    width:100%;
 }
+selector { cursor: none; }
  /*
 .item {
   background-color: white;
@@ -49,9 +53,9 @@ img {
 	top: 0%;
 	left: 0%;
 	width: 100%;
-	height: 400px;
+	height: 100%;
 	background-color: black;
-	opacity: 0.8;
+	opacity: 0.9;
 	z-index:1001;
 }
 
@@ -59,9 +63,9 @@ img {
 	position: absolute;
 	display: none;
 	width: 360px;
-	height: 400px
+	height: 400px;
 	padding: 16px;
-	background-color: saddlebrown;
+	background-color: white;
 	z-index:1002;
 }
 

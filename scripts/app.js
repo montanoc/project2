@@ -38,15 +38,14 @@ $(document).ready(function() {
       // var year = $(this).data('clickcount');
       //  alert('decomposed');
       $(this).attr('data-current-click-count', currentClickCount + 1);
-      $(this).append();
+//      $(this).append();
         //shrinks the item when clicked
-           $("img").click(function(){
-            $("img").animate({
-            left: '0px',
-            right: '0px',
-            height: '-=5%',
-            width: '-=5%'});
-           });
+      $(this).children("img").animate({
+        left: '0px',
+        right: '0px',
+        height: '-=5%',
+        width: '-=5%'
+      });
 
       if (currentClickCount == tolerance) {
         $(this).fadeOut();
@@ -87,6 +86,6 @@ $("#overlay-content").show().center();
 
 setTimeout(function(){    
   $("#overlay").fadeOut();
-}, 6000);
+}, 2000);
     
 });
