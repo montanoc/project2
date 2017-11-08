@@ -759,30 +759,37 @@
     {
         "item": "motor",
         "imagesrc": "motor"
+         "clickcount": 20,
     },
     {
         "item": "basketball hoop",
         "imagesrc": "basketball hoop"
+         "clickcount": 18,
     },
     {
         "item": "basketball ",
         "imagesrc": "basketball "
+         "clickcount": 10,
     },
     {
         "item": "football",
         "imagesrc": "football"
+         "clickcount": 10,
     },
     {
         "item": "baseball",
         "imagesrc": "baseball"
+         "clickcount": 10,
     },
     {
         "item": "baseball glove",
         "imagesrc": "baseball glove"
+         "clickcount": 10,
     },
     {
         "item": "umbrella",
         "imagesrc": "umbrella"
+         "clickcount": 16,
     },
     {
         "item": "gold",
