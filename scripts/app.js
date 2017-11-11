@@ -38,15 +38,26 @@ $(document).ready(function() {
       // var year = $(this).data('clickcount');
       //  alert('decomposed');
       $(this).attr('data-current-click-count', currentClickCount + 1);
-//      $(this).append();
-        //shrinks the item when clicked
+        
+    
+        
+        
+        //opacity lowers on each click
+        //$(this).children("img").animate({
+     //   opacity:0.7,
+//    image shrinks with each click
+       // $(this).append();
       $(this).children("img").animate({
-        left: '0px',
-        right: '0px',
-        height: '-=5%',
-        width: '-=5%'
+       
+       left: '1px',
+        right: '1px',
+        height: '-=3%',
+        width: '-=3%' 
+       
+            
+            
       });
-
+//when clicked right amount of times it fades out
       if (currentClickCount == tolerance) {
         $(this).fadeOut();
           
@@ -66,7 +77,35 @@ $(document).ready(function() {
   /*if (clickcount == 5) {
   $(this).append('decomposed');
   } */
-  
+                  
+//timer
+var start = new Date().getTime();
+var time = 0;
+var timeout = 30000;
+
+function instance() {
+    
+    //alert(start);
+
+    if (time == timeout) {
+
+        time = 0;
+
+    } else {
+
+        time += 1;
+
+    }
+    $('#count').text(time);
+    //var diff = (new Date().getTime() - start) - time;
+    window.setTimeout(instance, 1000);
+}
+window.setTimeout(instance, 1);
+$('#current').click(function() {
+$('#current span').text(time);
+
+});
+    
   //splash screen 
 $.fn.center = function () {
   this.css("position","absolute");
@@ -86,6 +125,6 @@ $("#overlay-content").show().center();
 
 setTimeout(function(){    
   $("#overlay").fadeOut();
-}, 2000);
+}, 600);
     
 });
